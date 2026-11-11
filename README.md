@@ -12,11 +12,12 @@ Full-stack developer based in Costa Rica. I build web apps and data dashboards f
 
 ## Experience
 
-**Municipality of Nicoya** · Software Developer · 2024 – 2025
-Information system for the Maritime Terrestrial Zone office: a citizen portal for online requests and appointments, and an admin dashboard to track and manage them.
-
 **ASADA Gamalotal (rural water utility)** · Full Stack Developer, internship · 2025
 Inventory system with Next.js and Supabase: atomic stock movements in PostgreSQL, low-stock alerts, role-based access with row-level security, KPI dashboard and Excel/PDF reports.
+
+## University project
+
+**Information system for the Maritime Terrestrial Zone office, Municipality of Nicoya.** Built at Universidad Nacional: a citizen portal to book appointments and send requests online, and an admin dashboard to track and manage them.
 
 ## Featured projects
 

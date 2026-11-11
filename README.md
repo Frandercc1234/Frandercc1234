@@ -37,4 +37,4 @@ Recent work: public site and admin dashboard for the Municipality of Nicoya, and
 
 Open to freelance projects. *Disponible para proyectos freelance.*
 
-[LinkedIn](https://www.linkedin.com/in/frander-centeno-6a1982323/)
+[LinkedIn](https://www.linkedin.com/in/TU-USUARIO)

@@ -10,7 +10,13 @@ Full-stack developer based in Costa Rica. I build web apps and data dashboards f
 
 **Data dashboards.** Python pipelines that turn messy public files into clean models and dashboards that answer concrete questions.
 
-Recent work: public site and admin dashboard for the Municipality of Nicoya, and an inventory system for a rural water utility.
+## Experience
+
+**Municipality of Nicoya** · Software Developer · 2024 – 2025
+Information system for the Maritime Terrestrial Zone office: a citizen portal for online requests and appointments, and an admin dashboard to track and manage them.
+
+**ASADA Gamalotal (rural water utility)** · Full Stack Developer, internship · 2025
+Inventory system with Next.js and Supabase: atomic stock movements in PostgreSQL, low-stock alerts, role-based access with row-level security, KPI dashboard and Excel/PDF reports.
 
 ## Featured projects
 
@@ -33,8 +39,15 @@ Recent work: public site and admin dashboard for the Municipality of Nicoya, and
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
+## Education and certifications
+
+- B.S. in Systems Engineering, Universidad Nacional de Costa Rica (2025)
+- DataCamp (2026): AI Engineer for Developers, Data Engineer, Data Analyst, Python Developer and SQL Associate
+- Scrum Fundamentals Certified (SFC) · PM4R Professional (IDB)
+- Spanish (native) · English (B1)
+
 ## Contact
 
 Open to freelance projects. *Disponible para proyectos freelance.*
 
-[LinkedIn](https://www.linkedin.com/in/TU-USUARIO)
+[LinkedIn](https://www.linkedin.com/in/frander-centeno-6a1982323/)
